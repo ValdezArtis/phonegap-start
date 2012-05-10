@@ -4,13 +4,13 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "99.9999">
 
-	<name>Dez's Amazing App</name>
+	<name>Dez Amazing App</name>
 
 	<description>
 		An Amazing App By Dez
 	</description>
 
-	<author href="http://alunny.github.com"
+	<author href="http://valdezartis.github.com"
 		email="dez.dez@datdude.com">
 		Dez
 	</author>
